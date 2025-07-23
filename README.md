@@ -60,8 +60,3 @@ This project provides a structured guide for:
 
 **Use Case**: Supports customer targeting strategies, loyalty program design, and personalized marketing campaigns by identifying key customer segments (e.g., high-value buyers, niche spenders, etc.)
 
----
-
-## Project Links
-- GitHub: [github.com/rawan-alwadiya/ClusterLens](https://github.com/rawan-alwadiya/ClusterLens)
-- Kaggle Notebook: [ClusterLens on Kaggle](https://www.kaggle.com/code/rawanalwadeya/clusterlens-clustering-for-customer-segmentation?scriptVersionId=252068149)
