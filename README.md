@@ -64,4 +64,4 @@ This project provides a structured guide for:
 
 ## Project Links
 - GitHub: [github.com/rawan-alwadiya/ClusterLens](https://github.com/rawan-alwadiya/ClusterLens)
-- Kaggle Notebook: [https://www.kaggle.com/code/rawanalwadeya/clusterlens-clustering-for-customer-segmentation?scriptVersionId=252068149]
+- Kaggle Notebook: [ClusterLens on Kaggle](https://www.kaggle.com/code/rawanalwadeya/clusterlens-clustering-for-customer-segmentation?scriptVersionId=252068149)
